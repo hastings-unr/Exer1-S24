@@ -1,0 +1,6 @@
+td {
+  width:22px; height:22px;
+}
+td>input {
+  width:22px; background-color:transparent;
+}
